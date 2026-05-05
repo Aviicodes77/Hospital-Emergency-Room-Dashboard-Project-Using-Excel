@@ -14,10 +14,9 @@ Hospitals need to efficiently manage patient volume and reduce waiting time to i
 
 ## 📊 Key Metrics (KPIs)
 
-* Total Patients
-* Average Wait Time
-* Patient Satisfaction Score
-* Admission Rate
+* Total Patients → Total number of ER visits  
+* Average Wait Time → Average time patients wait before being attended  
+* Patient Satisfaction Score → Rating based on patient feedback  
 
 ---
 
@@ -32,9 +31,11 @@ Hospitals need to efficiently manage patient volume and reduce waiting time to i
 
 ## 📊 Key Insights
 
-* Peak patient volume occurs during specific time periods, leading to increased wait times
-* Higher patient load directly impacts service efficiency
-* Certain departments experience higher demand, indicating resource allocation needs
+- Majority of patients are attended on time (~66%), but a significant portion still experiences delays (~34%)
+- Male patients (55%) slightly outnumber female patients (45%)
+- Highest patient volume is observed in the 30–39 age group
+- General Practice handles the highest number of patients among departments
+- Admission rate is slightly higher than non-admission, indicating moderate severity cases
 
 ---
 
@@ -48,10 +49,10 @@ Hospitals need to efficiently manage patient volume and reduce waiting time to i
 
 ## 🛠️ Tools Used
 
-* Microsoft Excel
-* Pivot Tables
-* Charts & Dashboarding
-* Data Cleaning
+* Microsoft Excel  
+* Pivot Tables  
+* Slicers & Interactive Filters  
+* Data Cleaning  
 
 ---
 
